@@ -1,0 +1,6 @@
+{
+  "idempotencyKey": "key_uuid_88492019-abc",
+  "action": "charge_wallet",
+  "amount": 2500,
+  "currency": "USD"
+}
